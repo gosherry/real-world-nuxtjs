@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/kaisun/Documents/bigFe/0303/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/kaisun/Documents/bigFe/0303/realworld-nuxtjs/pages/home",
+        "_name": "_f29fc770"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/kaisun/Documents/bigFe/0303/realworld-nuxtjs/pages/login",
+        "_name": "_4f8bb520"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/kaisun/Documents/bigFe/0303/realworld-nuxtjs/pages/login",
+        "_name": "_4f8bb520"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/kaisun/Documents/bigFe/0303/realworld-nuxtjs/pages/profile",
+        "_name": "_7499bda0"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/kaisun/Documents/bigFe/0303/realworld-nuxtjs/pages/settings",
+        "_name": "_a043f1e8"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/kaisun/Documents/bigFe/0303/realworld-nuxtjs/pages/editor",
+        "_name": "_d541dad4"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/kaisun/Documents/bigFe/0303/realworld-nuxtjs/pages/article",
+        "_name": "_5b6400ed"
+      }
+    ],
+    "_name": "_bda4275a"
+  }
+]
